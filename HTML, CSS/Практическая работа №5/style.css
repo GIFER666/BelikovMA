@@ -1,18 +1,31 @@
-li{
+
+.shooter-1 .first{
 	background-color: white;
 }
-.first{
+.shooter-1 .second{
+	background-color: red;
+}
+.shooter-1 .third{
 	background-color: white;
 }
-.second{
-	background-color: yellow;
+.shooter-1 .fourth{
+	background-color: white;
 }
-.third{
+.shooter-1 .fifth{
 	background-color: red;
 }
-.fourth{
+.shooter-2 .first{
 	background-color: red;
 }
-.fifth{
+.shooter-2 .second{
+	background-color: white;
+}
+.shooter-2 .third{
+	background-color: white;
+}
+.shooter-2 .fourth{
+	background-color: white;
+}
+.shooter-2 .fifth{
 	background-color: white;
 }

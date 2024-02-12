@@ -16,6 +16,6 @@
 				<p> Обучаюсь на 1 курсе НАТК с приятными одногруппниками, познаю мир программирования благодаря Илье Михайловичу :) .
 				     Из информатики знаю про RTX 4090 и Intel Pentium и Celeron, себе собирал ПК на RTX 3060 и i3-12100F(уж лучше, чем на Pentium)</p>
 		</section>
-<a href = "file:///C:/Users/User/Documents/GitHub/ABC228/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/HTML/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%961,2/index.html">Мой основной сайт</a>
+<a href = "file:///C:/Users/User/Documents/GitHub/ABC228/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/HTML/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%961,2/index.html" target="_blank">Мой основной сайт</a>
 
   

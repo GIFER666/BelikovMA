@@ -16,6 +16,6 @@
 				<p> Обучаюсь на 1 курсе НАТК с приятными одногруппниками, познаю мир программирования благодаря Илье Михайловичу :) .
 				     Из информатики знаю про RTX 4090 и Intel Pentium и Celeron, себе собирал ПК на RTX 3060 и i3-12100F(уж лучше, чем на Pentium)</p>
 		</section>
-<a href = "file:///C:/Users/User/Documents/GitHub/ABC228/HTML/index.html" target="_blank">Мой основной сайт</a>
+<a href = "file:///C:/Users/User/Documents/GitHub/ABC228/Informatika/Practice%20Work/HTML/Practice%20Work%201,2/index.html" target="_blank">Мой основной сайт</a>
 
   
